@@ -1,2 +1,2 @@
 # hello-world
-I am saying a big HI to the world.
+I am saying a big HELLO to the world.
